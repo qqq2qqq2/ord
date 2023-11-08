@@ -10,3 +10,15 @@
 /target
 /test-times.txt
 /tmp
+/.idea/
+/.vagrant
+/docs/build
+/fuzz/artifacts
+/fuzz/corpus
+/fuzz/coverage
+/fuzz/target
+/index.redb
+/ord.log
+/target
+/test-times.txt
+/tmp
